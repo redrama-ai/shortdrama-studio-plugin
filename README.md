@@ -6,6 +6,8 @@ Write and produce vertical AI short dramas from your AI agent. This plugin conne
 
 **MCP server:** `https://mcp.shortdrama.studio/mcp` (Streamable HTTP, OAuth 2.1)
 
+Listed in the [official MCP Registry](https://registry.modelcontextprotocol.io/v0.1/servers?search=studio.shortdrama) as `studio.shortdrama/shortdrama-studio` ([`server.json`](server.json)).
+
 This repository holds only the plugin manifests and docs. The server is hosted by ShortDrama Studio; nothing runs on your machine and no secrets are stored here.
 
 ## What it costs

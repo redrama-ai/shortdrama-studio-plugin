@@ -1,0 +1,27 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "studio.shortdrama/shortdrama-studio",
+  "title": "ShortDrama Studio",
+  "description": "Write and produce vertical AI short dramas: free scripting, paid image, video, voice and renders.",
+  "version": "1.0.0",
+  "websiteUrl": "https://shortdrama.studio/mcp",
+  "repository": {
+    "url": "https://github.com/redrama-ai/shortdrama-studio-plugin",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://shortdrama.studio/icon-square.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "512x512"
+      ]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.shortdrama.studio/mcp"
+    }
+  ]
+}
