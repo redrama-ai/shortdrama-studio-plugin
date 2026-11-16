@@ -1,0 +1,17 @@
+{
+  "name": "shortdrama-studio",
+  "owner": {
+    "name": "ShortDrama Studio",
+    "email": "support@shortdrama.studio"
+  },
+  "metadata": {
+    "description": "The ShortDrama Studio plugin for Claude Code."
+  },
+  "plugins": [
+    {
+      "name": "shortdrama-studio",
+      "source": "./",
+      "description": "Connects Claude Code to the ShortDrama Studio MCP server: write and produce vertical AI short dramas."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "shortdrama-studio",
+  "version": "1.0.0",
+  "description": "Write and produce vertical AI short dramas from your agent: story bibles, characters, episode scripts and script checks for free, plus optional image, video, voice and music generation and episode rendering with credits.",
+  "author": {
+    "name": "ShortDrama Studio",
+    "email": "support@shortdrama.studio",
+    "url": "https://shortdrama.studio"
+  },
+  "homepage": "https://shortdrama.studio/mcp",
+  "repository": "https://github.com/redrama-ai/shortdrama-studio-plugin",
+  "license": "MIT",
+  "privacyPolicyUrl": "https://shortdrama.studio/privacy",
+  "keywords": [
+    "short drama",
+    "micro drama",
+    "screenwriting",
+    "ai video",
+    "mcp"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "shortdrama": {
+      "type": "http",
+      "url": "https://mcp.shortdrama.studio/mcp"
+    }
+  }
+}
